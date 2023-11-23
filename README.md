@@ -10,7 +10,7 @@
 
 <div align="center">
 
- 🔭 I’m currently working as **a fullStack Web Developpment intern at [Code Cooperation](https://www.codecooperation.com/)** 
+ 🔭 I’m currently working as **a fullStack Developer at [Code Cooperation](https://www.codecooperation.com/)** 
  
  🌱 I’m currently learning **Web Development by Self**
 
