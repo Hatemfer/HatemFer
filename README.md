@@ -83,6 +83,7 @@
             <img src="https://skillicons.dev/icons?i=mysql" />
         </a>
   <br>
+    <a href="#" target="_blank" rel="nofollow"><img alt="Other" src="https://img.shields.io/badge/AND MORE...-323330?style=for-the-badge" /></a>
 </div>
 
 <br/>
