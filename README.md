@@ -37,9 +37,51 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,nestjs,dart,unity,unreal" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flutter,arduino" />
-    <img src="https://skillicons.dev/icons?i=github,linux,dotnet,heroku,django,wordpress,jest,cpp,cs,docker,jquery,bash" />
+     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+            <img src="https://skillicons.dev/icons?i=html" />
+        </a>
+         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"  target="_blank">
+            <img src="https://skillicons.dev/icons?i=css" />
+        </a>
+         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide"  target="_blank">
+            <img src="https://skillicons.dev/icons?i=javascript" />
+        </a>
+         <a href="https://www.typescriptlang.org/"  target="_blank">
+            <img src="https://skillicons.dev/icons?i=typescript" />
+        </a>
+         <a href="https://nestjs.com/"  target="_blank">
+            <img src="https://skillicons.dev/icons?i=nestjs" />
+        </a>
+         <a href="https://nextjs.org/"  target="_blank">
+            <img src="https://skillicons.dev/icons?i=nextjs" />
+        </a><br>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+            <img src="https://skillicons.dev/icons?i=nodejs" />
+        </a>
+         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"  target="_blank">
+            <img src="https://skillicons.dev/icons?i=java" />
+        </a>
+         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide"  target="_blank">
+            <img src="https://skillicons.dev/icons?i=dotnet" />
+        </a>
+         <a href="https://www.typescriptlang.org/"  target="_blank">
+            <img src="https://skillicons.dev/icons?i=django" />
+        </a>
+         <a href="https://nestjs.com/"  target="_blank">
+            <img src="https://skillicons.dev/icons?i=wordpress" />
+        </a><br>
+     <a href="https://mui.com/"  target="_blank">
+            <img src="https://skillicons.dev/icons?i=mui" />
+        </a>
+    <a href="https://mui.com/"  target="_blank">
+            <img src="https://skillicons.dev/icons?i=flutter" />
+        </a>
+    <a href="https://mui.com/"  target="_blank">
+            <img src="https://skillicons.dev/icons?i=mongodb" />
+        </a>
+    <a href="https://mui.com/"  target="_blank">
+            <img src="https://skillicons.dev/icons?i=mysql" />
+        </a>
   <br>
 </div>
 
