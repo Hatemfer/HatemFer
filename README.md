@@ -10,15 +10,15 @@
 
 <div align="center">
 
- 🔭 I’m currently working as **a fullStack Developer** 
+ 🔭 I’m currently working as a **Software Developer** 
  
- 🌱 I’m currently learning **Web Development by Self**
+ 🎓 Final-year **Software Engineering** student (graduating soon!)
 
-💬 Ask me about **Nest.js, Next.js, MongoDB, typeOrm... or anything [here](https://github.com/HatemFer/HatemFer/issues)**
+ 💬 Ask me about **Nest.js, Next.js, MongoDB, TypeORM... or anything [here](https://github.com/HatemFer/HatemFer/issues)**
 
-⚡ Fun fact **There are more possible iterations of a game of chess than there are atoms in the known universe**
+ ⚡ Fun fact **There are more possible iterations of a game of chess than there are atoms in the known universe**
 
- </div>
+</div>
  
 <div align="center"> 
   <a href="mailto:hatemeferjenizamil@gmail.com">
